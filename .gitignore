@@ -1,0 +1,5 @@
+implementationA/_xmsg
+implementationA/*.html
+implementationA/*.cmd_log
+implementationA/*.wdb
+implementationA/iseconfig

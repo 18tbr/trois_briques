@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=/home/huzhanbo/ise/TroisBriques/TOP.ncd
+OUTFILE=/home/huzhanbo/ise/TroisBriques/TOP.bit
+FAMILY=Spartan3E
+PART=xc3s100e-5cp132
+WORKINGDIR=/home/huzhanbo/ise/TroisBriques
+LICENSE=WebPack
+USER_INFO=211814568_0_0_112
